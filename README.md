@@ -11,8 +11,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMGA&layout=compact&langs_count=7&theme=dark" />
 </div>
   
-<img aling="center" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
-  
+<div align="center">
+  <img aling="center" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
+  </div>
+ 
   ##
 
   ![Snake animation](https://github.com/MiguelMGA/MiguelMGA/blob/output/github-contribution-grid-snake.svg)
