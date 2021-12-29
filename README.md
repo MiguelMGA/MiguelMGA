@@ -1,3 +1,11 @@
+## Olá, me chamo Miguel! Sou um programador iniciante muito motivado a aprender.
+
+<div>
+<a href= https://www.linkedin.com/in/miguel-marinho-741793224 target=_blank> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+</div>
+  
+  ##
+
 <div align="center">
   <a href="https://github.com/MiguelMGA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelMGA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
