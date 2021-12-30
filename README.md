@@ -7,13 +7,15 @@
   <a href="mailto:miguelmga@id.uff.br" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a>
 </div>
 
-<br>
+<br />
 
 <div align="center">
   <a href="https://github.com/MiguelMGA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelMGA&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMGA&layout=compact&langs_count=7&theme=dark" />
 </div>
+  
+ <br />
   
 <div align="left">
   <img align="center" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" style="max-width: 100%;" />
