@@ -16,7 +16,8 @@
 </div>
   
 <div align="left">
-  <img aling="center" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" />
+  <img align="center" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" style="max-width: 100%;" />
+  <img align="center" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" style="max-width: 100%;"/>
 </div>
  
   ##
