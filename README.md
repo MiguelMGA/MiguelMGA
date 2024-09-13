@@ -2,7 +2,7 @@
 <p> Olá, me chamo Miguel! Sou um programador iniciante muito motivado a aprender. Seja bem-vindo(a) ao meu perfil no GitHub, aproveite a oportuidade para ver os meus projetos.
   <br>
   <br>
-   👨🏻‍🎓 - Atualmente estou no 3º período cursando Análise e Desenvolvimento de Sistemas - UNIASSELVI
+   👨🏻‍🎓 - Atualmente estou no 5º período cursando Análise e Desenvolvimento de Sistemas - UNIASSELVI
 </p>
 <hr>
 <div style="display: inline_block">
